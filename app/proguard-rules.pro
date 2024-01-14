@@ -24,4 +24,4 @@
 #-renamesourcefileattribute SourceFile
 
 # Any class extending SettingsFragment can be referenced in XML.
--keep class ** extends com.voltage.flash.SettingsActivity$SettingsFragment
+-keep class ** extends com.ethereal.flash.SettingsActivity$SettingsFragment

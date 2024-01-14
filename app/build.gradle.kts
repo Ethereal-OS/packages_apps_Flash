@@ -39,7 +39,7 @@ android {
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.voltage.flash"
+        applicationId = "com.ethereal.flash"
         minSdk = 26
         targetSdk = 33
         versionCode = 1

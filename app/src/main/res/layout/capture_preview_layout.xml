@@ -3,7 +3,7 @@
      SPDX-FileCopyrightText: 2022 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
-<com.voltage.flash.ui.CapturePreviewLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<com.ethereal.flash.ui.CapturePreviewLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -75,4 +75,4 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
     </androidx.constraintlayout.widget.ConstraintLayout>
-</com.voltage.flash.ui.CapturePreviewLayout>
+</com.ethereal.flash.ui.CapturePreviewLayout>

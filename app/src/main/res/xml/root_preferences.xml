@@ -95,7 +95,7 @@
         app:title="@string/advanced_header">
 
         <Preference
-            app:fragment="com.voltage.flash.SettingsActivity$ProcessingSettingsFragment"
+            app:fragment="com.ethereal.flash.SettingsActivity$ProcessingSettingsFragment"
             app:iconSpaceReserved="false"
             app:title="@string/processing_title" />
 

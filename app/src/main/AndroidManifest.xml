@@ -5,7 +5,7 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.voltage.flash">
+    package="com.ethereal.flash">
 
     <uses-feature android:name="android.hardware.camera.any" />
     <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
@@ -22,8 +22,8 @@
     <queries>
         <package android:name="com.google.android.apps.googlecamera.fishfood" />
         <package android:name="com.google.android.googlequicksearchbox" />
-        <package android:name="com.voltage.flash.auto_generated_rro_product__" />
-        <package android:name="com.voltage.flash.auto_generated_rro_vendor__" />
+        <package android:name="com.ethereal.flash.auto_generated_rro_product__" />
+        <package android:name="com.ethereal.flash.auto_generated_rro_vendor__" />
     </queries>
 
     <application
